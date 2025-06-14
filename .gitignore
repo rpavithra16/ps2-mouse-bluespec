@@ -1,0 +1,10 @@
+*.ba
+*.so
+bluesim_objects/
+obj/
+simv*
+*.log# Ignore editor backup files
+*~
+
+# Ignore the inst directory
+inst
